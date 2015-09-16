@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 香王菩薩陀羅尼經
+#+DATE: 2015-08-30 20:31:14.504407
+#+PROPERTY: JUAN 0
