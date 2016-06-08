@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:14.174674
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:00
 #+TITLE: 香王菩薩陀羅尼呪經
 #+PROPERTY: CBETA_ID T20n1157
 #+PROPERTY: ID KR6j0378
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1157
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0378_T_000-0651b>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0378_T_001-0651b> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1157¶
-
- 香王菩薩陀羅尼呪經一卷¶
+No. 1157¶
+香王菩薩陀羅尼呪經一卷¶
 ¶
 三藏法師沙門義淨譯¶
 
