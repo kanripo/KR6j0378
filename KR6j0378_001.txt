@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:31:14.174674
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:00
 #+TITLE: 香王菩薩陀羅尼呪經
 #+PROPERTY: CBETA_ID T20n1157
 #+PROPERTY: ID KR6j0378
